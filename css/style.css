@@ -1,0 +1,31 @@
+*{
+    font-family: Arial;
+    margin: 0px;
+    padding: 0px;
+}
+.section{
+    margin:30px auto;
+    border: 2px solid goldenrod;
+    box-shadow:5px 5px 5px goldenrod  ;
+    border-radius: ;
+    width:400px;
+    padding: 40px;
+}
+.btn{
+    text-align: center;
+}
+button{
+    margin-top: 20px;
+    padding: 2px;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color:gray;
+    color: white;
+}
+.error
+{
+    color: Red;
+    visibility: hidden;
+}
